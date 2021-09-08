@@ -12,7 +12,6 @@ import { windowHeight, windowWidth } from './Home';
 import { Feather, AntDesign } from '@expo/vector-icons';
 import { useSelector, useDispatch } from 'react-redux';
 import { deleteContact, getContacts } from '../redux/action';
-import { ContactCard } from '../components/contactCard';
 
 // import { NavigationContainer } from '@react-navigation/native';
 
